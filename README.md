@@ -1,0 +1,4 @@
+minecraft
+=========
+
+Minecraft logging plugin
